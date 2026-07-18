@@ -28,18 +28,19 @@ for d in stefan-sagmeister-design massimo-vignelli-design dieter-rams-design des
 done
 ```
 
-### Sagmeister-references genereren (eenmalig)
+### Sagmeister-references
 
 De Sagmeister-skill leunt op zijn eigen woorden: de Q&A's van
-[sagmeister.com/answers](https://sagmeister.com/answers/) en de transcripts van zes publieke talks.
-Die content herpubliceren we hier niet (het is zijn werk, niet het onze) — je genereert hem lokaal:
+[sagmeister.com/answers](https://sagmeister.com/answers/) en transcripts van zes publieke talks.
+Die staan meegeleverd in `references/`. Wil je ze verversen (de FAQ groeit af en toe), draai dan:
 
 ```bash
 cd stefan-sagmeister-design/scripts
 ./fetch_references.sh   # vereist: curl, python3, yt-dlp
 ```
 
-Dit vult `references/answers-faq.md` en `references/talks/` in een paar minuten.
+Deze bron-content is en blijft van Stefan Sagmeister; hij staat hier als studiemateriaal bij de
+skill en wordt op verzoek verwijderd.
 
 ## Opmerkingen
 
@@ -54,5 +55,6 @@ Dit vult `references/answers-faq.md` en `references/talks/` in een paar minuten.
 
 ## Licentie
 
-MIT voor de skill-teksten en scripts in dit repo. De content die de scripts ophalen
-(sagmeister.com, YouTube) blijft eigendom van de respectievelijke makers.
+MIT voor de skill-teksten en scripts in dit repo. De meegeleverde bron-content in
+`stefan-sagmeister-design/references/` (sagmeister.com-FAQ, talk-transcripts) blijft eigendom van
+de respectievelijke makers en valt niet onder de MIT-licentie.
