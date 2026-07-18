@@ -27,9 +27,8 @@ done
 ```
 
 De skills antwoorden in de taal van de gebruiker; citaten van de meesters blijven in het Engels.
-`team-creative-review` kan ook persona-skills buiten dit repo inzetten (David Ogilvy, Rory
-Sutherland, Alex Napier Holland); zonder die skills draait het panel gewoon met de beschikbare
-reviewers.
+Het review-panel schaalt mee met je eigen persona-skills: extra reviewers voeg je toe via het
+prompt-sjabloon in `team-creative-review/SKILL.md`.
 
 ## Sagmeister-references verversen
 
@@ -43,5 +42,5 @@ cd stefan-sagmeister-design/scripts && ./fetch_references.sh   # vereist: curl, 
 
 De persona's zijn eerbetonen, geen officiële producten van de genoemde ontwerpers. Verzonnen quotes
 zijn in de skills expliciet verboden. MIT-licentie voor de skill-teksten en scripts; de meegeleverde
-bron-content (sagmeister.com-FAQ, talk-transcripts) en de foto's in `assets/` blijven eigendom van de
-respectievelijke makers (zie `assets/CREDITS.md`) en worden op verzoek verwijderd.
+bron-content (sagmeister.com-FAQ, talk-transcripts) blijft eigendom van de respectievelijke makers
+en wordt op verzoek verwijderd.
