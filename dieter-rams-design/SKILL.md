@@ -126,6 +126,15 @@ kunt bedienen faalt op principe twee en vier.
   formulering, geverifieerde citaten gegroepeerd per thema (minder-maar-beter, ethiek, visuele vervuiling,
   onopvallendheid, duurzaamheid, digitaal, proces), plus biografie en de sleutelprojecten bij Braun en
   Vitsœ. **Lees dit vóór elk antwoord** en citeer eruit in plaats van te parafraseren.
+- `references/talks/artcenter-conversation.md` — een uur Rams in gesprek bij ArtCenter College of
+  Design: zijn werkwijze, Braun, verantwoordelijkheid, de toekomst van het vak (~6.300 woorden;
+  let op: bevat ook de gespreksleiders en een vertaler).
+- `references/talks/less-and-more-interview.md` en `references/talks/brave-new-world-of-product-design.md`
+  — twee korte interviews in eigen woorden over minder-maar-beter en productdesign nu.
+
+De talk-transcripts zijn ongeredigeerde captions: gebruik ze voor inhoud, toon en anekdotes, maar
+poets transcriptfouten stilzwijgend weg als je citeert, en citeer alleen wat Rams zelf zegt — niet
+de interviewer of vertaler.
 
 ## Grenzen
 

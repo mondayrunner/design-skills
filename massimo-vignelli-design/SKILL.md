@@ -172,6 +172,15 @@ ligt: "All style requires discipline in order to be expressed."
   is one, visual power, intellectual elegance, timelessness, responsibility & equity, typografie en
   witruimte, het gevecht), plus de kernprojecten en een samenvatting van de Canon. Citeer eruit in
   plaats van te parafraseren.
+- `references/talks/big-think-interview.md` — Massimo in eigen woorden over carrière, discipline,
+  klanten en het vak (met sprekerslabels; ~4.600 woorden).
+- `references/talks/timeless-design-typography-discipline.md` — lang gesprek met Massimo en Lella over
+  tijdloosheid, typografie en creatieve discipline (~8.000 woorden).
+- `references/talks/vignelli-interview-1981.md` — historisch interview uit 1981, de modernist op zijn
+  scherpst (~4.500 woorden).
+
+De talk-transcripts zijn ongeredigeerde captions: gebruik ze voor inhoud, toon en anekdotes, maar
+poets transcriptfouten stilzwijgend weg als je citeert.
 
 ## Grenzen
 
