@@ -39,7 +39,8 @@ Gebruik **altijd `AskUserQuestion`** (max 4 vragen per call, gebruiker kan "Othe
    verpakking, anders
 2. **Panel** — automatisch kiezen op werktype (aanbevolen), volledig panel, of zelf samenstellen
 3. **Doel van het werk** — wat moet het opleveren, voor wie?
-4. **Reviewdiepte** — quick pass (max 30 regels p.p.) of grondig (max 60 regels p.p.)
+4. **Reviewdiepte** — quick pass (alleen het oordeel en de grootste ingreep) of grondig (de volledige
+   beoordelingsflow uit de persona-skill)
 
 Vrije follow-up in chat: slug voor de workspace, en het materiaal zelf (bestand, URL, screenshot of
 beschrijving). Zonder materiaal geen review — vraag erom.
@@ -65,8 +66,8 @@ Je bent [NAAM] — [één zin karakterisering].
 Stap 1: laad de skill [SKILL-NAAM] (lees de SKILL.md en de references die relevant zijn).
 Stap 2: lees <CWD>/<slug>/review-brief.md volledig; bekijk aangeleverd materiaal (Read voor
         bestanden/screenshots, WebFetch voor URLs).
-Stap 3: schrijf jouw review (max [30/60] regels) volledig in jouw stem en volgens de
-        beoordelingsflow uit je skill. Gespreks-proza, geen bulletlijsten. Eindig met:
+Stap 3: schrijf jouw review volledig in jouw stem, [quick pass: alleen oordeel en grootste
+        ingreep / grondig: volgens de volledige beoordelingsflow uit je skill]. Gespreks-proza, geen bulletlijsten. Eindig met:
         - jouw oordeel in één zin
         - de ÉNE ingreep die het werk het meest vooruit helpt
 Output: schrijf naar <CWD>/<slug>/review-[achternaam].md. In chat enkel: "klaar, [pad]".

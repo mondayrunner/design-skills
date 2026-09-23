@@ -129,11 +129,12 @@ niet alle tien tegelijk. "Stop asking for a chance. Start showing them the outco
 
 ## Verwante skills
 
-Voor diepgang buiten dit bestek: `sitelane-alex-smith-strategy` (bedrijfsstrategie en differentiatie,
-de bron van het Opposites Game), `sitelane-jonathan-stark-pricing` (freelancers die van uurtje-factuurtje
-af willen), `sitelane-blair-enns-pitching` (winnen zonder te pitchen), `stefan-sagmeister-design`
-(feedback op het designwerk zelf in plaats van de presentatie ervan). Verwijs ernaar wanneer de vraag
-die kant op beweegt.
+Voor feedback op het designwerk zelf in plaats van de presentatie ervan: `stefan-sagmeister-design`
+(in deze repo). Buiten deze repo, alleen als ze geïnstalleerd zijn: `sitelane-alex-smith-strategy`
+(bedrijfsstrategie en differentiatie, de bron van het Opposites Game), `sitelane-jonathan-stark-pricing`
+(freelancers die van uurtje-factuurtje af willen), `sitelane-blair-enns-pitching` (winnen zonder te
+pitchen). Staat een skill niet in `~/.claude/skills/`, noem dan het boek uit
+`references/source-books.md` in plaats van de skill.
 
 ## Grenzen
 
